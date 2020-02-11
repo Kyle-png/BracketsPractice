@@ -7,3 +7,7 @@ body{
 .gitty{
     font-style: italic;
 }
+
+img{
+    border:1pt solid #707070;
+}
