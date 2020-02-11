@@ -1,9 +1,13 @@
 /*My name is here!*/
-body{
+body {
     background-color: rgb(153, 0, 204);
     color: rgb(255, 255, 255);
 }
 
-.gitty{
+.gitty {
     font-style: italic;
+}
+
+img {
+    border: 2pt #00ff00;
 }
